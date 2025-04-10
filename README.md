@@ -19,8 +19,16 @@ A dynamic and interactive Power BI dashboard analyzing sales performance across 
 ## 📁 Files Included:
 - `Sales Report.pbix` - Main Power BI file
 - `Sales Report.csv` - Dataset used
-- `SalesDashboard.png` - Dashboard snapshot
+- `SalesDashBoard.png` - Dashboard snapshot
 
+## 📸 Preview
+![HR Summary Dashboard](SalesDashBoard.png)
+
+## 💡 How to Use
+1. Clone the repository
+2. Open the Power BI desktop
+3. Load `Sales Report.csv`
+4. Recreate visuals using provided screenshot
 ---
 
 ✅ Feel free to fork, star, or reach out for collaboration!
